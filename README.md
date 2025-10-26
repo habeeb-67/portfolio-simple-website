@@ -10,5 +10,5 @@ Beginner-friendly portfolio project created using HTML and CSS.
 
 Clean and minimal portfolio design with a contact page.
 
-view my site []
+view my site [ https://habeeb-67.github.io/portfolio-simple-website/]
 this is my first portfolio that are create and upload in the gitup.
