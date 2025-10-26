@@ -1,0 +1,60 @@
+.name{
+    background-color: rgb(69, 68, 68);
+    color: white;
+    text-align: left;
+    padding: 20px;
+}
+.name a{
+    background-color: rgb(246, 76, 76);
+    color: white;
+    text-decoration: none;
+    padding: 3px 8px;
+    border-radius: 5px;
+}
+.interests{
+    background-color: rgb(246, 76, 76);
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+}
+.projects{
+    background-color: rgb(72, 75, 255);
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    display: inline-block;
+    list-style: none;
+}
+.last{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1px;
+}
+.Contact{
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.Contact-form__input, .Contact-form__textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.Contact-form__submit {
+    background-color:rgb(246, 76, 76);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
